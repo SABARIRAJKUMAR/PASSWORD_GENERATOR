@@ -6,3 +6,4 @@ for i in words:
             for l in words:
                 files.write(f"{i}{j}{k}{l}\n")
 files.close()
+#Code with ❤️ by SABARIRAJKUMAR
